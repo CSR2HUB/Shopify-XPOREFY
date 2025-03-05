@@ -1,5 +1,4 @@
-# 🚀 Shopify XPOREFY
-# 🚀 Shopify Export Script
+# Shopify XPOREFY 🚀 Shopify Export Script
 
 ## 📌 Overview
 This script exports Shopify store data, including Products, Orders, Blogs, and more. It allows you to export data in **CSV, JSON, or XML** formats and migrate/import data between Shopify stores.
@@ -23,6 +22,8 @@ Ensure you have Python installed. Then, install required dependencies:
 ```sh
 pip install requests pandas beautifulsoup4
 ```
+
+![XPORTIFY Banner](https://raw.githubusercontent.com/YourUsername/YourRepo/main/xportify_banner.png)
 
 ## 🎯 Usage
 ### **1️⃣ Run the Script**
