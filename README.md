@@ -60,6 +60,6 @@ This project is open-source. Feel free to modify and use it.
 Pull requests are welcome! Fork the repo and submit your improvements.
 
 ---
-**Maintained by:** [Your Name]  
-GitHub: [https://github.com/your-username](https://github.com/your-username)
+**Maintained by:** BASH & Z
+GitHub: [https://github.com/CSR2HUB](https://github.com/CSR2HUB)
 
