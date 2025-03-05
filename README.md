@@ -23,7 +23,7 @@ Ensure you have Python installed. Then, install required dependencies:
 pip install requests pandas beautifulsoup4
 ```
 
-![XPORTIFY Banner](https://raw.githubusercontent.com/YourUsername/YourRepo/main/xportify_banner.png)
+![XPORTIFY Banner](https://github.com/CSR2HUB/Shopify-XPOREFY/blob/main/xportefy.png)
 
 ## 🎯 Usage
 ### **1️⃣ Run the Script**
