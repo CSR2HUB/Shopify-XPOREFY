@@ -61,5 +61,6 @@ Pull requests are welcome! Fork the repo and submit your improvements.
 
 ---
 **Maintained by:** BASH & Z
-GitHub: [https://github.com/CSR2HUB](https://github.com/CSR2HUB)
+
+[https://github.com/CSR2HUB](https://github.com/CSR2HUB)
 
